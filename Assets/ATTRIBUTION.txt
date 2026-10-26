@@ -1,0 +1,10 @@
+Graphic credits for this ping pong game
+
+Background — Assets/bkgrd.png
+Already in the project. Used as the court background.
+
+Ball — Assets/eyeball1.png
+Already in the project. Crocheted eyeball used for every ball.
+
+Paddles and walls — Unity Square sprite
+Built-in white square from Unity's 2D Sprite package. Stretched into the paddle and wall rectangles.
